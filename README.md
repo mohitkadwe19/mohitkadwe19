@@ -14,6 +14,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohitkadwe19&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkadwe19&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://raw.githubusercontent.com/mohitkadwe19/mohitkadwe19/output/snake.svg" alt="Snake animation" />
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohitkadwe19&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
