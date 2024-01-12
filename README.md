@@ -27,4 +27,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohitkadwe19&icon=4&color=0)](https://visitcount.itsvg.in)
+<img align="left" src="https://profile-counter.glitch.me/mohitkadwe19/count.svg?"  />
+
+###
