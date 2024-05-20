@@ -15,3 +15,14 @@
 <img src="https://raw.githubusercontent.com/mohitkadwe19/mohitkadwe19/output/snake.svg" alt="Snake animation" />
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```txt
+Markdown   14 mins         █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
+
