@@ -1,7 +1,7 @@
 # ✨Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohit
 
 # 💫 About Me:
-🔭 I’m currently working on improving my development skills<br>🌱 I’m currently learning system Design<br>🤔 I’m looking for help with contributing to open source projects<br>💬 Ask me about tech related stuffs<br>⚡ Fun fact: I procrastinate more than I code
+🔭 I’m currently working on improving my development skills<br> 🤔 I’m looking for help with contributing to open source projects<br>💬 Ask me about tech related stuffs<br>⚡ Fun fact: I procrastinate more than I code
 
 
 ## 🌐 Socials:
