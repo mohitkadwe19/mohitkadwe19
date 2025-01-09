@@ -1,9 +1,5 @@
 # ✨Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohit
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 <br/>
   
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
