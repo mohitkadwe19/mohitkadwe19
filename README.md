@@ -1,4 +1,4 @@
-# Hi, I'm Mohit Kadwe 👨‍💻
+# Hello, I'm Mohit Kadwe 👨‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer+%7C+AI+Solutions+Architect;Building+Payment+Systems+at+NymCard;Fine-tuning+LLMs+%7C+Azure+OpenAI+%7C+Gemini+%7C+Claude;Hackathon+Winner+%7C+4%2B+Years+Experience;Open+to+Exciting+Opportunities" alt="Typing SVG" />
