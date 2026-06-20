@@ -1,4 +1,4 @@
-# Hi, I'm Mohit Kadwe 👋
+# Hi, I'm Mohit Kadwe <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="35" height="35" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer+%7C+NymCard;Building+Payment+Infrastructure+for+MENA;Hackathon+Winner+%7C+5%2B+Years+Experience;Open+to+Senior+Engineering+Roles" alt="Typing SVG" />
