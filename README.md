@@ -104,15 +104,6 @@ graph TD
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitkadwe19&theme=github_dark" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitkadwe19&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohitkadwe19&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitkadwe19&theme=github-compact&hide_border=true&area=true" />
 </div>
 
