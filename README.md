@@ -1,123 +1,86 @@
-# Hi, I'm Mohit Kadwe <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture.png" alt="Love-You Gesture" width="35" height="35" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer+%7C+NymCard;Building+Payment+Infrastructure+for+MENA;Hackathon+Winner+%7C+5%2B+Years+Experience;Open+to+Senior+Engineering+Roles" alt="Typing SVG" />
-</div>
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kadwe/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitpawar530@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linktr.ee/mohitkadwe)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mohitkadwe19)
+<img src="banner.svg" alt="Mohit Kadwe, Full Stack Engineer, payments and fraud systems" width="100%" />
 
-</div>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="buttons/linkedin.svg" height="44" alt="Message me on LinkedIn" /></a>&nbsp;
+<a href="https://www.mohitkadwe.tech"><img src="buttons/portfolio.svg" height="44" alt="See my portfolio" /></a>&nbsp;
+<a href="https://x.com/mohitkadwe"><img src="buttons/x.svg" height="44" alt="Follow on X" /></a>
 
-## 🚀 About Me
+<br/>
 
-**Full Stack Engineer** at **NymCard** — architecting payment infrastructure across the MENA region.
-
-**Mentor & Technical Leader** — Trained 100+ developers at The 10x Academy. Passionate about building teams that ship.
-
-5+ years across fintech, backend systems, and platform engineering. Currently focused on scalable API design, payment processing, and developer tooling.
-
----
-
-## 💼 Core Expertise
-
-<div align="center">
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Backend & Infrastructure
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="buttons/open.svg" height="44" alt="Open to senior backend and full-stack roles" />
 
 </div>
 
----
+I build the parts of a card platform that must be fast and correct at the same time: fraud decisions, BNPL, bank integrations and identity checks. I work at **NymCard**, a card issuing and processing platform for banks and fintechs in the Middle East, with product, engineering and bank teams across **Dubai, Riyadh, the USA and Germany**.
 
-## 🏆 Achievements
+<img src="bento.svg" alt="1,000+ fraud rules per transaction, under 1 second decisions, millions of transactions a week, 10,000+ ID checks a month, 100+ developers mentored" width="100%" />
 
-<div align="center">
+## Teams I work with
 
-| Achievement | Result |
-|:--|:--|
-| Physics Wallah Rajasthan IT Day Hackathon | 🥇 1st Place — led team "TheMetadaters" |
-| Microsoft Imagine Cup 2021 | 🥈 All India 2nd |
-| Smart India Hackathon 2022 | 🥈 National 2nd |
-| LeetCode | 300+ problems solved |
-| The 10x Academy | 100+ developers mentored |
+<img src="teams.svg" alt="Timezone map: USA UTC-8 to -5, Germany UTC+1, Riyadh UTC+3, Dubai UTC+4, based in India UTC+5:30" width="100%" />
 
-</div>
-
----
-
-## 🎯 Professional Focus Areas
-
-<div align="center">
+## How a transaction flows through my work
 
 ```mermaid
-graph TD
-    A[Full Stack Development] --> B[Payment Systems]
-    A --> C[Backend Engineering]
-    B --> D[FinTech Solutions]
-    B --> E[API Architecture]
-    C --> F[Distributed Systems]
-    C --> G[Technical Leadership]
-    D --> H[NymCard Platform]
-    F --> I[Scalable Infrastructure]
+flowchart LR
+    A[Card transaction] --> B[NymCard core platform]
+    B --> C{{Fortress<br/>1,000+ fraud rules}}
+    C -->|under 1 s| D[Approve or decline]
+    C -.-> E[Counters, alerts, case review]
 ```
 
-</div>
+## What I have built
 
-### 💳 FinTech Development
-- **Payment Infrastructure** at NymCard — MENA's leading embedded finance platform
-- **API Architecture** — Building scalable systems handling 1000+ integrations
-- **Compliance & Security** — Implementing robust, production-grade financial solutions
+| | What | Result |
+|---|---|---|
+| <img src="icons/shield-check.svg" width="22" alt="" /> | **Fortress**, real-time fraud detection (Python, FastAPI). Took it from MVP to production, replacing a third-party fraud PRM. | 1,000+ rules per transaction, under 1 s, about $10K in fraud blocked per month |
+| <img src="icons/credit-card.svg" width="22" alt="" /> | **BNPL platform** for SAB and SNB (React, TypeScript, Node.js, Python, PostgreSQL), plus bank partner APIs | About 40% faster partner go-live |
+| <img src="icons/id-card.svg" width="22" alt="" /> | **Identity verification microservice** (Python, FastAPI, Azure OpenAI, Google Cloud Vision OCR) | 10,000+ checks a month, review time cut from 5 days to 5 minutes |
+| <img src="icons/server-cog.svg" width="22" alt="" /> | **Platform work**: GitHub Actions CI/CD and PostgreSQL indexes | CI build time down 30 to 40%, index size down 50% |
 
-### 🏗️ Backend Engineering
-- **Distributed Systems** — Designing services that scale across high-transaction environments
-- **API Design** — RESTful and GraphQL APIs built for reliability and developer experience
-- **Database Architecture** — Schema design and query optimization across SQL and NoSQL
+## Products I ship on my own
 
-### 👥 Technical Leadership
-- **Team Mentoring** — Guided 100+ developers in full-stack development at The 10x Academy
-- **Knowledge Sharing** — Regular contributor to developer education and engineering best practices
-- **Innovation Driver** — Leading adoption of modern technologies within engineering teams
+<p align="center">
+  <a href="https://kordrun.mohitkadwe.tech"><img src="products/kordrun.svg" width="49%" alt="kordrun: CLI that runs a whole dev stack from one config file" /></a>
+  <a href="https://postmint.mohitkadwe.tech"><img src="products/postmint.svg" width="49%" alt="PostMint: AI writer for LinkedIn, X and Instagram posts" /></a>
+  <a href="https://planipets.com"><img src="products/planipets.svg" width="49%" alt="PlaniPets: booking SaaS for pet businesses" /></a>
+  <a href="https://vjoin.app"><img src="products/vjoin.svg" width="49%" alt="vJoin: groups and events platform on web, iOS and Android" /></a>
+</p>
 
----
+## Career
 
-## 📊 GitHub Stats
+<img src="timeline.svg" alt="Career timeline: 3Bit Digital 2020 to 2021, All Indian IT Services 2021 to 2022, Everest Engineering 2022 to 2024, NymCard 2024 to now" width="100%" />
+
+## Ask me about
+
+`fraud rule engines` · `BNPL and bank partner integrations` · `identity verification with LLMs and OCR` · `PostgreSQL index bloat` · `CI/CD speed-ups` · `working with teams across time zones` · `shipping a developer tool solo`
+
+## Stack
+
+<img src="stack.svg" alt="TypeScript, JavaScript, Python, SQL, Node.js, Express, FastAPI, React, Next.js, Vue, React Native, PostgreSQL, MongoDB, MySQL, Redis, Kafka, AWS, Docker, GitHub Actions, Jest" width="100%" />
+
+## Recognition
+
+- 🥇 **1st Place**, Rajasthan IT Day Hackathon 2023 (Physics Wallah and iNeuron.ai)
+- 🏅 **National Finalist**, Smart India Hackathon 2022
+- 🏅 **Finalist**, Microsoft Imagine Cup India 2021
+- 🎓 **Mentored 100+ developers** through The 10x Academy, FunctionUp, PW Skills and Wiingy
+
+## Work with me
+
+| If you are | I can help with |
+|---|---|
+| <img src="icons/briefcase.svg" width="20" alt="" /> **A recruiter or hiring manager** | Senior backend or full-stack roles in fintech, payments and cards |
+| <img src="icons/users.svg" width="20" alt="" /> **An engineering lead** | Real-time risk and fraud systems, payment APIs, bank integrations |
+| <img src="icons/rocket.svg" width="20" alt="" /> **A founder** | Taking a product from idea to production, web and mobile |
+
+Based in India (IST), working remotely with teams in Dubai, Riyadh, the USA and Germany. **The fastest way to reach me is a LinkedIn message.**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitkadwe19&theme=github-compact&hide_border=true&area=true" />
-</div>
 
----
-
-## 📞 Let's Connect
-
-<div align="center">
-
-**Open to:** Senior Engineering Roles · Technical Leadership · Consulting
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kadwe/)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitpawar530@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohitkadwe)
-[![X](https://img.shields.io/badge/X-Updates-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohitkadwe)
+<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="buttons/linkedin.svg" height="44" alt="Message me on LinkedIn" /></a>
 
 </div>
