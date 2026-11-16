@@ -4,15 +4,12 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="buttons/linkedin.svg" height="52" alt="Message me on LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://www.mohitkadwe.tech"><img src="buttons/portfolio.svg" height="52" alt="See my portfolio" /></a>&nbsp;&nbsp;
-<a href="https://x.com/mohitkadwe"><img src="buttons/x.svg" height="52" alt="Follow on X" /></a>
+<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="buttons/linkedin.svg" height="36" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.mohitkadwe.tech"><img src="buttons/portfolio.svg" height="36" alt="Portfolio" /></a>&nbsp;
+<a href="https://x.com/mohitkadwe"><img src="buttons/x.svg" height="36" alt="Follow on X" /></a>&nbsp;
+<img src="buttons/open.svg" height="36" alt="Open to senior roles" />
 
 <br/>
-
-<img src="buttons/open.svg" height="52" alt="Open to senior backend and full-stack roles" />
-
-<br/><br/>
 
 </div>
 
@@ -89,10 +86,4 @@ flowchart LR
 | <img src="icons/users.svg" width="24" alt="" /> | **An engineering lead** | Real-time risk and fraud systems, payment APIs, bank integrations |
 | <img src="icons/rocket.svg" width="24" alt="" /> | **A founder** | Taking a product from idea to production, web and mobile |
 
-Based in India (IST), working remotely with teams in Dubai, Riyadh, the USA and Germany. **The fastest way to reach me is a LinkedIn message.**
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="buttons/linkedin.svg" height="52" alt="Message me on LinkedIn" /></a>
-
-</div>
+Based in India (IST), working remotely with teams in Dubai, Riyadh, the USA and Germany. **The fastest way to reach me is a [LinkedIn message](https://www.linkedin.com/in/mohit-kadwe/).**
