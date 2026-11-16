@@ -4,16 +4,22 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="buttons/linkedin.svg" height="36" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.mohitkadwe.tech"><img src="buttons/portfolio.svg" height="36" alt="Portfolio" /></a>&nbsp;
-<a href="https://x.com/mohitkadwe"><img src="buttons/x.svg" height="36" alt="Follow on X" /></a>&nbsp;
-<img src="buttons/open.svg" height="36" alt="Open to senior roles" />
+<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="buttons/linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.mohitkadwe.tech"><img src="buttons/portfolio.svg" height="40" alt="Portfolio" /></a>&nbsp;&nbsp;
+<a href="https://x.com/mohitkadwe"><img src="buttons/x.svg" height="40" alt="Follow on X" /></a>&nbsp;&nbsp;
+<img src="buttons/open.svg" height="40" alt="Open to roles" />
+
+<br/>
+
+**I build the parts of a card platform that must be fast and correct at the same time.**<br/>
+Fraud decisions · BNPL · bank integrations · identity checks
+
+At **NymCard**, a card issuing and processing platform for banks and fintechs in the Middle East.<br/>
+Working with teams across Dubai, Riyadh, the USA and Germany.
 
 <br/>
 
 </div>
-
-I build the parts of a card platform that must be fast and correct at the same time: fraud decisions, BNPL, bank integrations and identity checks. I work at **NymCard**, a card issuing and processing platform for banks and fintechs in the Middle East, with product, engineering and bank teams across **Dubai, Riyadh, the USA and Germany**.
 
 <img src="bento.svg" alt="1,000+ fraud rules per transaction, under 1 second decisions, millions of transactions a week, 10,000+ ID checks a month, 100+ developers mentored" width="100%" />
 
@@ -86,4 +92,4 @@ flowchart LR
 | <img src="icons/users.svg" width="24" alt="" /> | **An engineering lead** | Real-time risk and fraud systems, payment APIs, bank integrations |
 | <img src="icons/rocket.svg" width="24" alt="" /> | **A founder** | Taking a product from idea to production, web and mobile |
 
-Based in India (IST), working remotely with teams in Dubai, Riyadh, the USA and Germany. **The fastest way to reach me is a [LinkedIn message](https://www.linkedin.com/in/mohit-kadwe/).**
+<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="cta.svg" alt="Let's talk. Message Mohit Kadwe on LinkedIn." width="100%" /></a>

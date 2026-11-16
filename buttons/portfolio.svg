@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135 36" width="135" height="36" role="img" aria-label="Portfolio"><defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 40" width="168" height="40" role="img" aria-label="Portfolio"><defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f1c"/><stop offset="1" stop-color="#14213a"/></linearGradient>
-<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#7ee8d8"/></linearGradient>
 <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16233b"/><stop offset="1" stop-color="#0f1a2e"/></linearGradient>
 <radialGradient id="glow" cx="0.2" cy="0" r="1"><stop offset="0" stop-color="#2dd4bf" stop-opacity=".22"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
 <linearGradient id="topA" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5eead4"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
 <linearGradient id="topB" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a5b4fc"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
 <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".10"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
 <filter id="blur"><feGaussianBlur stdDeviation="6"/></filter>
-</defs><rect x=".5" y=".5" width="134" height="35" rx="17.5" fill="#0f1a2e" stroke="#2dd4bf"/><g transform="translate(16,9) scale(0.75)" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10" />
+</defs><rect x=".5" y=".5" width="167" height="39" rx="19.5" fill="#0f1a2e" stroke="#2b3b57"/><g transform="translate(32.786249999999995,10) scale(0.8333333333333334)" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10" />
   <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" />
-  <path d="M2 12h20" /></g><text x="42" y="23" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">Portfolio</text></svg>
+  <path d="M2 12h20" /></g><text x="62.8" y="25.5" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#e2e8f0">Portfolio</text></svg>
