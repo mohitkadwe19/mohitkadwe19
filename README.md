@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="banner.svg" alt="Mohit Kadwe, Full Stack Engineer, payments and fraud systems" width="100%" />
+<img src="banner.svg?v=3" alt="Mohit Kadwe, Full Stack Engineer, payments and fraud systems" width="100%" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="buttons/linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://www.mohitkadwe.tech"><img src="buttons/portfolio.svg" height="40" alt="Portfolio" /></a>&nbsp;&nbsp;
-<a href="https://x.com/mohitkadwe"><img src="buttons/x.svg" height="40" alt="Follow on X" /></a>&nbsp;&nbsp;
-<img src="buttons/open.svg" height="40" alt="Open to roles" />
+<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="buttons/linkedin.svg?v=3" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.mohitkadwe.tech"><img src="buttons/portfolio.svg?v=3" height="40" alt="Portfolio" /></a>&nbsp;&nbsp;
+<a href="https://x.com/mohitkadwe"><img src="buttons/x.svg?v=3" height="40" alt="Follow on X" /></a>&nbsp;&nbsp;
+<img src="buttons/open.svg?v=3" height="40" alt="Open to roles" />
 
 <br/>
 
@@ -21,11 +21,11 @@ Working with teams across Dubai, Riyadh, the USA and Germany.
 
 </div>
 
-<img src="bento.svg" alt="1,000+ fraud rules per transaction, under 1 second decisions, millions of transactions a week, 10,000+ ID checks a month, 100+ developers mentored" width="100%" />
+<img src="bento.svg?v=3" alt="1,000+ fraud rules per transaction, under 1 second decisions, millions of transactions a week, 10,000+ ID checks a month, 100+ developers mentored" width="100%" />
 
 ## <img src="icons/globe.svg" width="26" align="absmiddle" alt="" />&nbsp; Teams I work with
 
-<img src="teams.svg" alt="Timezone map: USA UTC-8 to -5, Germany UTC+1, Riyadh UTC+3, Dubai UTC+4, based in India UTC+5:30" width="100%" />
+<img src="teams.svg?v=3" alt="Timezone map: USA UTC-8 to -5, Germany UTC+1, Riyadh UTC+3, Dubai UTC+4, based in India UTC+5:30" width="100%" />
 
 ## <img src="icons/workflow.svg" width="26" align="absmiddle" alt="" />&nbsp; How a transaction flows through my work
 
@@ -57,7 +57,7 @@ flowchart LR
 
 ## <img src="icons/briefcase.svg" width="26" align="absmiddle" alt="" />&nbsp; Career
 
-<img src="timeline.svg" alt="Career timeline: 3Bit Digital 2020 to 2021, All Indian IT Services 2021 to 2022, Everest Engineering 2022 to 2024, NymCard 2024 to now" width="100%" />
+<img src="timeline.svg?v=3" alt="Career timeline: 3Bit Digital 2020 to 2021, All Indian IT Services 2021 to 2022, Everest Engineering 2022 to 2024, NymCard 2024 to now" width="100%" />
 
 ## <img src="icons/message-circle.svg" width="26" align="absmiddle" alt="" />&nbsp; Ask me about
 
@@ -73,7 +73,7 @@ flowchart LR
 
 ## <img src="icons/layers.svg" width="26" align="absmiddle" alt="" />&nbsp; Stack
 
-<img src="stack.svg" alt="TypeScript, JavaScript, Python, SQL, Node.js, Express, FastAPI, REST, GraphQL, Webhooks, React, Next.js, Vue, React Native, PostgreSQL, MongoDB, MySQL, Redis, Kafka, AWS, Docker, GitHub Actions, Jest" width="100%" />
+<img src="stack.svg?v=3" alt="TypeScript, JavaScript, Python, SQL, Node.js, Express, FastAPI, REST, GraphQL, Webhooks, React, Next.js, Vue, React Native, PostgreSQL, MongoDB, MySQL, Redis, Kafka, AWS, Docker, GitHub Actions, Jest" width="100%" />
 
 ## <img src="icons/award.svg" width="26" align="absmiddle" alt="" />&nbsp; Recognition
 
@@ -92,4 +92,4 @@ flowchart LR
 | <img src="icons/users.svg" width="24" alt="" /> | **An engineering lead** | Real-time risk and fraud systems, payment APIs, bank integrations |
 | <img src="icons/rocket.svg" width="24" alt="" /> | **A founder** | Taking a product from idea to production, web and mobile |
 
-<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="cta.svg" alt="Let's talk. Message Mohit Kadwe on LinkedIn." width="100%" /></a>
+<a href="https://www.linkedin.com/in/mohit-kadwe/"><img src="cta.svg?v=3" alt="Let's talk. Message Mohit Kadwe on LinkedIn." width="100%" /></a>
